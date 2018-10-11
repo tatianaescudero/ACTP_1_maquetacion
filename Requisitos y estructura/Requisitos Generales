@@ -1,0 +1,28 @@
+—— REQUISITOS GENERALES ——
+
+Web tipo landing page
+Barra de navegación, footer y 4 Secciones.
+
+Sección 1: Productos o servicio
+Sección 2: Sobre Nosotros (Empresa)
+Sección 3: Contratar servicio (CTA) 
+
+Requerimientos específicos
+- Iconos con background #FFFFFF o #E56353 
+- Video (Buscar en youtube para el test)
+- Parrafos en general (Lorem ipsum )
+- Secciones con grilla (Boostrap)
+
+Requerimientos visuales
+- Layout: Usar bootstrap
+- Colores:
+    - #E56353 Jelly Bean
+    - #686963 Granite Gray
+    - #707070. Nickel
+    - #FAFAFA Snow
+    - #FFFFFF White
+- Fuentes: Google Fonts
+Títulos: Raleway-Bold.ttf
+Subtitulos: OpenSans-Regular.ttf
+Párrafos y otros: Raleway-ExtraLight.ttf
+- Imágenes: Entregadas por cliente
